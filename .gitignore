@@ -1,0 +1,21 @@
+# build files and dependencies
+/node_modules
+uploads
+backup
+.build
+.data
+
+# ignore all environment config files
+/config/env-*
+
+# junk files
+package-lock.json
+.DS_Store
+Thumbs.db
+.vscode 
+
+# TLS certificates
+/**/*.pem
+
+# igore also for dropbox
+.dropboxignore

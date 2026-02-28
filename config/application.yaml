@@ -1,0 +1,8 @@
+name: soundfield
+author: ""
+clients:
+  controller:
+    target: browser
+  player:
+    target: browser
+    default: true
