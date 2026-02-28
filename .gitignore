@@ -12,7 +12,8 @@ backup
 package-lock.json
 .DS_Store
 Thumbs.db
-.vscode 
+.vscode
+.editorconfig
 
 # TLS certificates
 /**/*.pem
